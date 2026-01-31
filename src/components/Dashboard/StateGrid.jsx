@@ -59,7 +59,7 @@ const StateGrid = () => {
         return (
           <div
             key={index}
-            className="bg-white/80 dark:bg-slate-900/80 backdrop-blur-xl rounded-2xl p-6 
+            className="bg-white/80 dark:bg-slate-900/80 backdrop-blur-xl rounded-2xl p-4 
         border border-slate-200/50 dark:border-slate-700/50 shadow-sm hover:shadow-xl 
         hover:shadow-slate-200/20 dark:hover:shadow-slate-900/20 transition-all duration-300 group"
           >
